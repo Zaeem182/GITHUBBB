@@ -19,9 +19,10 @@ public class Book {
         this.price = price;
         this.name = name;
     }
-    
+    //ZAEEEEEEMM MATHHEEEEWW NUUUUUURS ALLLIIIIIII
     public int getPrice(){
         return price + id;
         
     }
+    //ZAEEEEEEMM MATHHEEEEWW NUUUUUURS ALLLIIIIIII
 }
