@@ -9,6 +9,7 @@ package za.ac.cput.githubb;
  *
  * @author Ali
  */
+public class Book {
 
     private int id, price;
     private String name;
@@ -18,8 +19,10 @@ package za.ac.cput.githubb;
         this.price = price;
         this.name = name;
     }
-    
+    //ZAEEEEEEMM MATHHEEEEWW NUUUUUURS ALLLIIIIIII
     public int getPrice(){
-        return price;
+        return price + id;
+        
     }
+    //ZAEEEEEEMM MATHHEEEEWW NUUUUUURS ALLLIIIIIII
 }
