@@ -9,7 +9,7 @@ package za.ac.cput.githubb;
  *
  * @author zpete
  */
-public class Store1 {
+public class store1 {
     public static void main(String[] args) {
         System.out.println("hi");
     }
