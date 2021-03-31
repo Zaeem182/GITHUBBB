@@ -10,6 +10,7 @@ package za.ac.cput.githubb;
  * @author Ali
  */
 public class Book {
+
     private int id, price;
     private String name;
 
